@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @designeruttam
-- 👀 I’m interested in html, css, js, react js, figma, bootstrap
-- 🌱 I’m currently learning js, next js
-- 💞️ I’m looking to collaborate on js 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-designeruttam/designeruttam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://www.figma.com/design/b6dtCQ2HmnVt8ROM7rdFXi/Food-Store?t=hBcKUE6klktuQoen-0
---->
+A Web Designer, or Web Applications Designer, is responsible for designing the overall layout and aesthetic for websites. 
+Their duties include coding webpages or entire websites, meeting with clients to review website templates or refine their designs and running tests to preview layouts and website features.
+#WEBSITE DESIGN
+#FIGMA
+#BOOTSTRAP
+#UI/UX DESIGN
+#ANIAMTION 3D WEBSITE
+3.JS
